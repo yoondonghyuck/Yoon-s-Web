@@ -1,0 +1,47 @@
+body{
+    background-color:#90ddff;
+    margin:0;
+}
+
+
+a {
+    text-decoration-line:none;
+    color:white;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+    border-bottom: 1px solid white;
+}
+
+
+#grid{
+    display:grid;
+    grid-template-columns: 1fr 5fr;
+
+
+}
+
+
+li {
+    color:white;
+    font-style: oblique;
+    font-weight: 1000;
+    padding-top:25px ;
+   
+}
+
+
+.contents{
+   
+    padding:20px 0px 0px 15px;
+}
+
+
+ol{
+    margin: 0;
+    border-right: 1px solid white;
+}
